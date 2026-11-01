@@ -59,7 +59,7 @@
   ],
   "devDependencies": {
     "@cossistant/typescript-config": "workspace:*",
-    "next": "16.2.3"
+    "next": "16.4.1"
   },
   "peerDependencies": {
     "react": ">=18 <20",
